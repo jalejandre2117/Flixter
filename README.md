@@ -4,7 +4,7 @@ Flixter is a movies app using the [The Movie Database API](http://docs.themovied
 
 Time spent: **X** hours spent in total
 
-## User Stories
+##  User Stories
 
 The following **required** user stories are complete:
 
